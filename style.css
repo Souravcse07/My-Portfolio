@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+nav a {
+  transition: color 0.3s ease;
+}
+
+.typed-cursor {
+  color: #22d3ee;
+  font-size: 1.5rem;
+}
